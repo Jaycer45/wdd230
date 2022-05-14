@@ -1,17 +1,39 @@
+header {
+    background-color: black;
+    padding: 10px;
+    border-radius: 2%;  
+    margin: auto; 
+}
+
+body {
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 2%;
+    margin: auto; 
+}
+
+.logo-box {
+    text-align: center;
+}
+
+
 .logo-box h1 {
-    color: black;
+    color: whitesmoke;
     font-family: "Helvetica", sans-serif;
 
 }
 
 .logo-box-img {
-    width: 150px;
-    height: 150px;
+    width: 400px;
+    height: 250px;
     border-radius: 25%;
 }
 
+
+
 .body {
     font-family: "Helvetica", sans-serif;
+    list-style: none;
 }
 
 .last_updated {
